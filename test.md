@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Test
+permalink: /test/
 main_nav: true
 ---
 for test profile page 
