@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Test
-permalink: /test/
+permalink: /Aero-CTF-2020/
 main_nav: true
 ---
 for test profile page 
