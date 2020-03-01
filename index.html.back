@@ -9,17 +9,17 @@
     <link rel="stylesheet" type="text/css" media="screen" href="/Aero-CTF-2020/assets/css/style.css?v=15e334b6ff50496b91a16d3115d03bf673a6c85c">
 
 <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Welcome to GitHub Pages | Aero-CTF-2020</title>
+<title>CTF writeups </title>
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="Welcome to GitHub Pages" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="pwn writeups" />
 <meta property="og:description" content="pwn writeups" />
-<link rel="canonical" href="https://synod2.github.io/Aero-CTF-2020/" />
-<meta property="og:url" content="https://synod2.github.io/Aero-CTF-2020/" />
-<meta property="og:site_name" content="Aero-CTF-2020" />
+<link rel="canonical" href="https://synod2.github.io/" />
+<meta property="og:url" content="https://synod2.github.io" />
+
 <script type="application/ld+json">
-{"@type":"WebSite","headline":"Welcome to GitHub Pages","url":"https://synod2.github.io/Aero-CTF-2020/","name":"Aero-CTF-2020","description":"pwn writeups","@context":"https://schema.org"}</script>
+{"@type":"WebSite","headline":"CTF writeups","url":"https://synod2.github.io/","name":"CTF writeups","description":"pwn writeups","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
