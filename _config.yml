@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: 내 저장소 
+title: my repo 
 subtitle: "깃허브 저장소"
 email: synod2@naver.com
 name: 
@@ -86,7 +86,7 @@ social:
   - name: Steam
     icon: steam
     username: "mall_ttug_ee"
-    url: ""
+    url: https://steamcommunity.com/id/synod2
     desc: Friend me on Steam
     share: false
 
