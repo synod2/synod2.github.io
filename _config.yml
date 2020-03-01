@@ -1,5 +1,8 @@
-title: my repository
+title: My repository
 description: ctf writeups
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
+branch: master
+highlighter: rouge
+navigation: True
