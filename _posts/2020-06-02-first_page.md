@@ -11,7 +11,7 @@ categories: jekyll update
 
 코드 표시 구문도 사용 가능함 . 
 
-​```python
+```python
 
 def print_hi(name):
 
@@ -19,15 +19,15 @@ def print_hi(name):
   
 print_hi('Tom')
 
-​```
+```
 
 링크 첨부는 
-.```
+```
 
 [Jekyll docs][jekyll-docs]
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 
-.```
+```
 
 아래와 같은 형식으로 사용함. 
