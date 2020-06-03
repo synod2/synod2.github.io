@@ -121,24 +121,24 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+       url: "synod2@naver.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+       url: "https://my-repo.tistory.com/"
+    #- label: "Twitter"
+     # icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    #- label: "Facebook"
+     # icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
+       url: "https://github.com/synod2"
+    - label: "steam"
       icon: "fab fa-fw fa-instagram"
-      # url:
+       url: "https://instagram.com/"
 
 
 # Reading Files
